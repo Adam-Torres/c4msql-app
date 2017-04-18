@@ -1,0 +1,7 @@
+---
+applications:
+- name:    c4msql-app
+  host:    c4msql-app
+  memory:  256M
+  services:
+    - c4msql-service
